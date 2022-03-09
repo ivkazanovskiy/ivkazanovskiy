@@ -1,8 +1,8 @@
 # Hello! I'm Ivan!
 <div>
 <p>
-👾 Full-Stack JS Developer<br>
-👀 Interested in web development, boxing and woodworking<br>
+👨‍💻 Full-Stack JS Developer<br>
+🥊 Interested in web development, boxing and woodworking<br>
 📫 Contact: ivkazanovskiy@gmail.com<br>
 </p>
   
@@ -38,7 +38,7 @@
 
 ## My development plans:
 <img src="https://img.shields.io/badge/TypeScript-282C34?logo=typescript&logoColor=3178C6" alt="TypeScript logo" title="TypeScript" height="25" />
-<img src="https://img.shields.io/badge/Next.js-282C34?logo=next.js&logoColor=FFFFFF" alt="Next.js logo" title="Next.js" height="25" />
+<img src="https://img.shields.io/badge/Nestjs-282C34?logo=nestjs&logoColor=FFFFFF" alt="Nestjs logo" title="Nestjs" height="25" />
 <img src="https://img.shields.io/badge/Docker-282C34?logo=docker&logoColor=E10098" alt="Docker logo" title="Docker" height="25" />
 
 ## Languages:
