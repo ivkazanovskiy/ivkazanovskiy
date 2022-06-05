@@ -2,7 +2,7 @@
 <div>
 <p>
 👨‍💻 Full-Stack JS Developer<br>
-🥊 Interested in web development, boxing and woodworking<br>
+🥊 Interested in web development, boxing and jogging<br>
 📫 Contact: ivkazanovskiy@gmail.com<br>
 </p>
   
