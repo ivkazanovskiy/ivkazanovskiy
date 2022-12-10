@@ -2,13 +2,11 @@
 <div>
 <p>
 👨‍💻 Backend Node.JS Developer<br>
-📫 Contact: ivkazanovskiy@gmail.com<br>
 </p>
   
 ## There are some links to contact me:
   
 <a name="telegram" href="https://t.me/ivkazanovskiy"><img src="https://img.icons8.com/color/48/000000/telegram-app--v3.png"/></a>
-<a name="watsapp" href="https://wa.me/89312903562"> <img src="https://img.icons8.com/color/48/000000/whatsapp--v6.png"/></a>
 <a name="gmail" href="mailto:ivkazanovskiy@gmail.com"> <img src="https://img.icons8.com/color/48/000000/gmail-new.png"/></a><br>
    
 </div>
