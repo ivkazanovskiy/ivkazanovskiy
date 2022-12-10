@@ -22,7 +22,7 @@
 
 <h3>BackEnd:</h3>
 <img src="https://img.shields.io/badge/Nestjs-282C34?logo=nestjs&logoColor=FFFFFF" alt="Nestjs logo" title="Nestjs" height="25" />
-<img src="https://img.shields.io/badge/Sequelize-282C34?logo=sequelize&logoColor=E10098" alt="Typeorm logo" title="Typeorm" height="25" />
+<img src="https://img.shields.io/badge/Typeorm-282C34?logo=typeorm&logoColor=E10098" alt="Typeorm logo" title="Typeorm" height="25" />
 <img src="https://img.shields.io/badge/RabbitMQ-282C34?logo=rabbitmq&logoColor=E10098" alt="RabbitMQ logo" title="RabbitMQ" height="25" />
 <img src="https://img.shields.io/badge/PostgreSQL-282C34?logo=postgresql&logoColor=E10098" alt="PostgreSQL logo" title="PostgreSQL" height="25" />
 <img src="https://img.shields.io/badge/Express-282C34?logo=express&logoColor=FFFFFF" alt="Express.js logo" title="Express.js" height="25" />
@@ -36,8 +36,6 @@
 <h3>Others</h3>
 <img src="https://img.shields.io/badge/git-282C34?logo=git&logoColor=F05032" alt="git logo" title="git" height="25" />
 <img src="https://img.shields.io/badge/Jest-282C34?logo=jest&logoColor=C21325" alt="Jest logo" title="Jest" height="25" />
-<img src="https://img.shields.io/badge/API-282C34?logo=api&logoColor=E10098" alt="API logo" title="API" height="25" /><br>
-
 
 ## My development plans:
 <img src="https://img.shields.io/badge/Docker-282C34?logo=docker&logoColor=E10098" alt="Docker logo" title="Docker" height="25" />
