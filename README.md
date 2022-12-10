@@ -1,8 +1,7 @@
 # Hello! I'm Ivan!
 <div>
 <p>
-👨‍💻 Full-Stack JS Developer<br>
-🥊 Interested in web development, boxing and jogging<br>
+👨‍💻 Backend Node.JS Developer<br>
 📫 Contact: ivkazanovskiy@gmail.com<br>
 </p>
   
@@ -23,8 +22,10 @@
 
 <h3>BackEnd:</h3>
 <img src="https://img.shields.io/badge/Nestjs-282C34?logo=nestjs&logoColor=FFFFFF" alt="Nestjs logo" title="Nestjs" height="25" />
-<img src="https://img.shields.io/badge/Express-282C34?logo=express&logoColor=FFFFFF" alt="Express.js logo" title="Express.js" height="25" />
+<img src="https://img.shields.io/badge/Sequelize-282C34?logo=sequelize&logoColor=E10098" alt="Typeorm logo" title="Typeorm" height="25" />
+<img src="https://img.shields.io/badge/RabbitMQ-282C34?logo=rabbitmq&logoColor=E10098" alt="RabbitMQ logo" title="RabbitMQ" height="25" />
 <img src="https://img.shields.io/badge/PostgreSQL-282C34?logo=postgresql&logoColor=E10098" alt="PostgreSQL logo" title="PostgreSQL" height="25" />
+<img src="https://img.shields.io/badge/Express-282C34?logo=express&logoColor=FFFFFF" alt="Express.js logo" title="Express.js" height="25" />
 <img src="https://img.shields.io/badge/Sequelize-282C34?logo=sequelize&logoColor=E10098" alt="Sequelize logo" title="Sequelize" height="25" />
 
 <h3>FrontEnd:</h3>
@@ -42,6 +43,4 @@
 <img src="https://img.shields.io/badge/Docker-282C34?logo=docker&logoColor=E10098" alt="Docker logo" title="Docker" height="25" />
 
 ## Languages:
-
-<span>Russian (Native) <img src="https://img.icons8.com/emoji/48/000000/russia-emoji.png"  height="25" /></span><br>
 <span>English (Upper-Intermediate, B2) <img src="https://img.icons8.com/emoji/48/000000/united-kingdom-emoji.png"  height="25" /></span>
